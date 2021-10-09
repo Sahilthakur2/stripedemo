@@ -225,7 +225,7 @@ export default function App() {
   //export default function  CardFormScreen()  {
   return (
     <View style={{ backgroundColor: "white", justifyContent: "center", flex: 1 }}>
-      <Text onPress={() => getMoviesFromApi()}>hello</Text>
+      <Text onPress={() => getMoviesFromApi()}>create user</Text>
       <Text onPress={() => store()}>store</Text>
       <StripeProvider
         style={{ height: 150 }}
