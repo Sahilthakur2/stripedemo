@@ -1,0 +1,6 @@
+module Pods_StipeDemo_StipeDemoTests {
+  umbrella header "Pods-StipeDemo-StipeDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
